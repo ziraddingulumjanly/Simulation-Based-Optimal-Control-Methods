@@ -1,6 +1,5 @@
 # Simulation-Based-Optimal-Control-Methods
 This project explores optimal control through LQR tuning and simulation-based optimization methods. It includes applications such as control gain selection for dynamic systems and constrained resource extraction using direct methods.
-![image](https://github.com/user-attachments/assets/698eded0-4e20-43fd-943d-6fc0bc6d64a7)
 <img src="https://github.com/user-attachments/assets/698eded0-4e20-43fd-943d-6fc0bc6d64a7" width="600" height="300">
 
 ## Simulation-Based Optimal Control – SYSE 511
